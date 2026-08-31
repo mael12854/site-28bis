@@ -1,10 +1,11 @@
 # site-28bis
 
-Charte graphique de la maison du 28bis avenue de la République, 91430 Igny — un site statique, une seule page.
+Le site de la maison du 28bis avenue de la République, 91430 Igny — statique, sans build.
 
 ## Structure
 
-- `index.html` — la page
+- `index.html` — la page d'accueil
+- `charte.html` — la charte graphique (identité, couleurs, typographie, matières, applications)
 - `photos/` — maison.png, cloture.png, portail.png
 
 ## Développement
